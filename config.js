@@ -12,7 +12,7 @@ global.location = 'Kamalia PK'
 global.gurl = 'https://instagram.com/' // add your username
 global.devs = '923317282386';
 global.website = 'https://github.com/bashirhoon/PRABATH_MD' //wa.me/+94762280384
-global.THUMB_IMAGE = process.env.THUMB_IMAGE || 'https://i.imgur.com/H062oEI.jpeg'
+global.THUMB_IMAGE = process.env.THUMB_IMAGE || 'https://imgur.com/a/yxQNMcS'
 module.exports = {
   OPENAI_API_KEY:process.env.OPENAI_API_KEY || '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',
   botname: process.env.BOT_NAME || 'AMAAN-MD',
