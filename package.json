@@ -1,13 +1,13 @@
 {
-               "name": "PRABATH-MD",
+               "name": "AMAAN-MD",
                "version": "5.0.0",
-               "description": "Multi device whatsapp bot by prabath.",
+               "description": "Multi device whatsapp bot by Amaan.",
                "main": "lib/client.js",
                "type": "commonjs",
                "license": "GPL-3.0",
    "scripts": {
-                "start": "pm2 start lib/client.js --deep-monitoring --attach --name prabath",
-                "stop": "pm2 stop prabath"
+                "start": "pm2 start lib/client.js --deep-monitoring --attach --name amaan",
+                "stop": "pm2 stop amaan"
                 },
                "author": "SamPandey001 & Prabath & Sachintha",
               "dependencies": {
